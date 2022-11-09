@@ -33,3 +33,4 @@ Both python files can be run via
 ```
 sh run.sh
 ```
+Please note that the folder /neural-structured-learning can be forked from official one: https://github.com/tensorflow/neural-structured-learning. Only the file 'graph_regularization.py' is adjusted herein. 
