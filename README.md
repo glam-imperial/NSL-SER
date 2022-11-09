@@ -1,8 +1,8 @@
 # NSL-SER
-[![arXiv](https://img.shields.io/badge/arXiv-2203.16141-b31b1b.svg)](https://arxiv.org/abs/2203.16141)
+[![arXiv](https://img.shields.io/badge/arXiv-2210.14977-b31b1b.svg)](https://arxiv.org/abs/2210.14977)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![](nsl-framework.pdf)
+![](nsl-framework.jpg)
 
 This is the code for the proposed neural structured learning (NSL) framework for speech emotion recognition (SER) in the following paper: 
 
