@@ -6,7 +6,7 @@
 
 This is the code for the proposed neural structured learning (NSL) framework for speech emotion recognition (SER) in the following paper: 
 
->Yi Chang, Zhao Ren, Thanh Tam Nguyen, Qian Kun, and Björn W. Schuller. Knowledge Transfer For On-Device Speech Emotion Recognition with Neural Structured Learning. https://arxiv.org/abs/2210.14977
+>Yi Chang, Zhao Ren, Thanh Tam Nguyen, Kun Qian, and Björn W. Schuller. Knowledge Transfer For On-Device Speech Emotion Recognition with Neural Structured Learning. https://arxiv.org/abs/2210.14977
 
 ## Citation
 
