@@ -1,6 +1,9 @@
-# NSL-SER
+# Knowledge Transfer For On-Device Speech Emotion Recognition with Neural Structured Learning
+
 [![arXiv](https://img.shields.io/badge/arXiv-2210.14977-b31b1b.svg)](https://arxiv.org/abs/2210.14977)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+### NSL-SER
 
 ![](nsl-framework.jpg)
 
@@ -8,7 +11,7 @@ This is the code for the proposed neural structured learning (NSL) framework for
 
 >Yi Chang, Zhao Ren, Thanh Tam Nguyen, Kun Qian, and Björn W. Schuller. Knowledge Transfer For On-Device Speech Emotion Recognition with Neural Structured Learning. https://arxiv.org/abs/2210.14977
 
-## Citation
+### Citation
 
 ```
 @misc{ychang2022ser,
